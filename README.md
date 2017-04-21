@@ -8,3 +8,4 @@ Implementation of DCGAN paper with bernoulli distribution used as input noise ve
 5. Use differnet input and generate resolution (64x64 vs 96x96), there seems no obvious difference during training, the generated images are also very similar.
 6. Binray Noise as G's input amazingly works, but the images are not as good as those with Gussian Noise.
 7. For some additional GAN tips, see @soumith's [ganhacks](https://github.com/soumith/ganhacks)
+8. Credits to [jayleicn](https://github.com/jayleicn) and [carpedm20](https://github.com/carpedm20/DCGAN-tensorflow)
